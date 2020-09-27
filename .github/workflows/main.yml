@@ -38,4 +38,4 @@ jobs:
       run : npm install -g surge
     
     - name: deploying surge
-      run: surge ./ http://jazibootcamp2.surge.sh/ --token ${{secrets.SECRET_SURGE}}
+      run:  surge ./build http://jazibootcamp2.surge.sh/ --token ${{secrets.SURGE_TOKEN}}
