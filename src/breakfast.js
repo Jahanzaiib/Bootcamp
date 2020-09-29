@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-function breakfast () {
+function Breakfast () {
     return (
         <div>
             <h1>
@@ -12,4 +12,4 @@ function breakfast () {
         
     )
 }
-export default breakfast;
+export default Breakfast;

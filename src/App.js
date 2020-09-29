@@ -2,7 +2,7 @@ import React from 'react';
 
 import './App.css';
 import Dinner from './dinner.js';
-import breakfast from './breakfast';
+
 
 
 function App() {
