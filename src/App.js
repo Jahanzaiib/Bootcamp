@@ -7,12 +7,11 @@ import Dinner from './dinner.js';
 
 function App() {
   return (
-    <div className="App">
-        <h1>Hi all i add a new file</h1>
-        <Dinner dishname='mutton kharai' sweet='kheer'/>
-        <Dinner dishname='mutton kharai' sweet='Jalabi'/>
-        <Dinner dishname='mutton kharai' sweet='Nehari'/>
-        <Dinner dishname='mutton kharai' sweet='spe'/>
+    <div >
+       <h1>Jahanzaib
+         <h3>jahanzaib added here </h3>
+       </h1>
+       <h2>I am add somting for test here </h2>
         
     </div>
     );
